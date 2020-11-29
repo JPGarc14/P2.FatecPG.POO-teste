@@ -38,6 +38,6 @@
         <h1>Página Inicial</h1>
         <p>Nome: João Paulo Garcia Silva</p>
         <p>RA:1290481913021</p>
-        <p>Disciplinas Matriculadas: <%=listaDisciplinas.getList().size()%> </p>
+        <p>Disciplinas Matriculadas: <%=listaDisciplinas.getList().size()%></p>
     </body>
 </html>

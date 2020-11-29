@@ -10,6 +10,6 @@
         <h1>Sobre</h1>
         <p>Nome: João Paulo Garcia Silva</p>
         <p>RA:1290481913021</p>
-        <p>Repositório do GitHub:<a href="https://github.com/JPGarc14?tab=repositories">https://github.com/JPGarc14?tab=repositories</a> </p>
+        <p>Repositório do GitHub:<a href="https://github.com/JPGarc14?tab=repositories">https://github.com/JPGarc14?tab=repositories</a></p>
     </body>
 </html>
