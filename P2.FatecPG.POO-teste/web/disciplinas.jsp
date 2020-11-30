@@ -81,7 +81,14 @@
             <input type="hidden" name="nomeOld" value="<%= nome%>">
             Nome: <input type="text" name="nome" value="<%= nome%>">
             Ementa: <input type="text" name="ementa" value="<%= ementa%>">
-            Ciclo: <input type="text" name="ciclo" value="<%= ciclo%>">
+            Ciclo: <select name="ciclo">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                   </select>
             Nota: <input type="text" name="nota" value="<%= nota%>">
             <input type="submit" name="formUpdate" value="Atualizar"/>
             <input type="submit" name="cancelar" value="Cancelar"/>  
