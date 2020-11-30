@@ -35,19 +35,19 @@ public static Connection getConnection()throws Exception{
 			+"10);");
 		
             stmt.execute("INSERT INTO disciplinas VALUES("
-			+"'Programação Orientada a Objetos' ,"
-			+"'Programação Orientada a Objetos\",\"Conceitos e evolução da tecnologia de orientação a objetos. Limitações e diferenças entre o paradigma da programação estruturada em relação à orientação a objetos. Conceito de objeto, classe, métodos, atributos, herança, polimorfismo, agregação, associação, dependência, encapsulamento, mensagem e suas respectivas notações na linguagem padrão de representação da orientação a objetos. Implementação de algoritmos orientado a objetos utilizando linguagens de programação. Aplicação e uso das estruturas fundamentais da orientação a objetos.' ,"
+			+"'Programacao Orientada a Objetos' ,"
+			+"'Conceitos e evolução da tecnologia de orientação a objetos. Limitações e diferenças entre o paradigma da programação estruturada em relação à orientação a objetos. Conceito de objeto, classe, métodos, atributos, herança, polimorfismo, agregação, associação, dependência, encapsulamento, mensagem e suas respectivas notações na linguagem padrão de representação da orientação a objetos. Implementação de algoritmos orientado a objetos utilizando linguagens de programação. Aplicação e uso das estruturas fundamentais da orientação a objetos.' ,"
 			+"4,"
 			+"10);");
 		
             stmt.execute("INSERT INTO disciplinas VALUES("
-			+"'Linguagem de Programação IV' ,"
+			+"'Linguagem de Programacao IV' ,"
 			+"'Comandos de linguagens usadas na construção e estruturação de sites para a Web, com páginas dinâmi­cas e interativas. Definição de layouts e formatação em geral. Adição de algorítmos usando laços, matrizes, datas, funções e condições. Introdução a Orientação a Objetos utilizando objetos, métodos e propriedades. Integração com Banco de Dados. Exercícios práticos com projeto de criação de sites.' ,"
 			+"4,"
 			+"10);");
 		
             stmt.execute("INSERT INTO disciplinas VALUES("
-			+"'Segurança da Informação' ,"
+			+"'Segurança da Informacao' ,"
 			+"'Requisitos de segurança de aplicações, de base de dados e de comunicações. Segurança de dispositivos móveis. Políticas de segurança. Criptografia. Firewalls. Vulnerabilidades e principais tecnologias de segurança.' ,"
 			+"5,"
 			+"10);");
